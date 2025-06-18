@@ -3,15 +3,15 @@
 
 - 🌱 I’m currently learning **SpringBoot, GenAI, Machine learning**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Sahilsahu223?tab=repositories](https://github.com/Sahilsahu223?tab=repositories)
+- 👨‍💻 All of my projects are available at [PROJECTS](https://github.com/Sahilsahu223?tab=repositories)
 
-- 📝 I have started writing articles on [https://medium.com/@sahilsahu22823](https://medium.com/@sahilsahu22823)
+- 📝 I have started writing articles on [MY BLOGS](https://medium.com/@sahilsahu22823)
 
 - 💬 Ask me about **Backend development and Data science**
 
 - 📫 How to reach me **sahilsahu22823@gmail.com**
 
-- 📄 Know about my experiences and achievements[https://drive.google.com/file/d/1NLRf66zZJA1qQag_OR3DDBTMOeWUjDW_/view?usp=sharing](https://drive.google.com/file/d/1NLRf66zZJA1qQag_OR3DDBTMOeWUjDW_/view?usp=sharing)
+- 📄 Know about my experiences and achievements [MY RESUME](https://drive.google.com/file/d/1NLRf66zZJA1qQag_OR3DDBTMOeWUjDW_/view?usp=sharing)
 
 - ⚡ Fun fact **I think I am Human**
 <h3 align="left">Connect with me:</h3>
